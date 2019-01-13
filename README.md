@@ -1,2 +1,3 @@
 # Helloworld
-just start learning NMT 
+I'm a freshman who just start using github.
+
